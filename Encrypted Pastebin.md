@@ -1,0 +1,2 @@
+Welcome back to another Hacker101 CTF writeup. This time I will be taking a look at the Encrypted Pastebin challenge.
+Once the challenge is launched, I was met with a simple user interface that prompted me to create a new paste. The message on the page said: We've developed the most secure pastebin on the internet. Your data is protected with military-grade 128-bit AES encryption. The key for your data is never stored in our database, so no hacker can ever gain unauthorized access.
